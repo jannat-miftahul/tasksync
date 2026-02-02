@@ -4,59 +4,59 @@ TaskSync is a task management application designed to help users organize their 
 
 ## Live Link
 
-[TaskSync Live](https://github.com/miftah-mj/tasksync)
+[TaskSync Live](https://tasksync-management.web.app)
 
 ## Table of Contents
 
--   [Features](#features)
--   [Tech Stack](#tech-stack)
-    -   [Client](#client)
-    -   [Server](#server)
--   [Getting Started](#getting-started)
-    -   [Prerequisites](#prerequisites)
-    -   [Installation](#installation)
--   [Usage](#usage)
-    -   [Running the Client](#running-the-client)
-    -   [Running the Server](#running-the-server)
--   [Contributing](#contributing)
--   [Contact](#contact)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+    - [Client](#client)
+    - [Server](#server)
+- [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+- [Usage](#usage)
+    - [Running the Client](#running-the-client)
+    - [Running the Server](#running-the-server)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ## Features
 
--   Task management
--   Drag-and-drop task reordering
--   Responsive design
--   User authentication
--   Real-time updates
+- Task management
+- Drag-and-drop task reordering
+- Responsive design
+- User authentication
+- Real-time updates
 
 ## Tech Stack
 
 ### Client
 
--   React
--   Vite
--   Tailwind CSS
--   DaisyUI
--   React Router
--   Firebase
--   ESLint
+- React
+- Vite
+- Tailwind CSS
+- DaisyUI
+- React Router
+- Firebase
+- ESLint
 
 ### Server
 
--   Express.js
--   MongoDB
--   Socket.io
--   JWT for authentication
--   CORS
--   Morgan for logging
--   Dotenv for environment variables
+- Express.js
+- MongoDB
+- Socket.io
+- JWT for authentication
+- CORS
+- Morgan for logging
+- Dotenv for environment variables
 
 ## Getting Started
 
 ### Prerequisites
 
--   Node.js
--   npm
+- Node.js
+- npm
 
 ### Installation
 
@@ -127,4 +127,4 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## Contact
 
-For any inquiries, please contact [miftahuljannat952@gmail.com](mailto:miftahuljannat952@gmail.com).
+For any inquiries, please contact [miftahuljannat.cs@gmail.com](mailto:miftahuljannat.cs@gmail.com).
